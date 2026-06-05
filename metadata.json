@@ -1,0 +1,6 @@
+{
+  "name": "CoreInventory",
+  "description": "Logistics & Supply Chain Management with precision stock tracking and warehouse monitors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
